@@ -76,7 +76,7 @@ if (boyos < 0) {
 } else if (boyos >= 0 && boyos <= 2) {
   console.log("New Born");
 
-} else if (boyos >= 2 && boyos < 18) {
+} else if (boyos > 2 && boyos < 18) {
   console.log("Child");
 
 } else if (boyos >= 18 && boyos < 60) {
