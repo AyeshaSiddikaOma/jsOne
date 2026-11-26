@@ -73,7 +73,7 @@ let boyos = 21;
 if (boyos < 0) {
   console.log("enter a valid age");
 
-} else if (boyos >= 0 && boyos <= 1) {
+} else if (boyos >= 0 && boyos <= 2) {
   console.log("New Born");
 
 } else if (boyos >= 2 && boyos < 18) {
