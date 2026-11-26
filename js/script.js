@@ -90,7 +90,7 @@ if (boyos < 0) {
 
 
 function myFunc (name,area){
-    console.log(`my name us ${name } and I live in ${area}`)
+    console.log(`my name is ${name } and I live in ${area}`)
 }
 
  myFunc ("Oma","Dhaka")
