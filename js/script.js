@@ -87,8 +87,10 @@ if (boyos < 0) {
 }
 
 //Age Function End
-function myFunc (){
-    console.log("this is function")
+
+
+function myFunc (name,area){
+    console.log(`my name us ${name } and I live in ${area}`)
 }
 
- myFunc ()
+ myFunc ("Oma","Dhaka")
